@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Arrays;
 import java.util.Random;
-// random comment to test git
+// random comment to test git 2
 class Point implements Comparable<Point> {
 	int x, y;
 	
