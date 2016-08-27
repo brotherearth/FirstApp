@@ -9,7 +9,7 @@ import java.util.Random;
 // random comment to test git 2
 class Point implements Comparable<Point> {
 	int x, y;
-	
+	// another random comment
 	public Point(int x, int y) {
 		this.x = x;
 		this.y = y;
